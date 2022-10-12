@@ -344,10 +344,10 @@ h6 {
   display: block;
   position: absolute;
   top: 55px;
-  right: 15px;
+  right: 10px;
   bottom: 15px;
-  left: 15px;
-  padding: 10px 0;
+  left: 10px;
+  padding: 5px 0;
   border-radius: 6px;
   background-color: #fff;
   overflow-y: auto;
@@ -357,7 +357,7 @@ h6 {
 .navbar-mobile a,
 .navbar-mobile a:focus {
   padding: 10px 20px;
-  font-size: 15px;
+  font-size: 12px;
   color: #37423b;
 }
 
